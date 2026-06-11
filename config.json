@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "database-design-sql",
+      "title": "Database Design & SQL",
+      "description": "Master relational database design and SQL query fundamentals. Learn to design schemas, write CRUD operations, and query data with JOINs and aggregations.",
+      "path": "assignments/database-design-sql",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.sql",
+          "type": "sql"
+        }
+      ]
     }
   ]
 }
